@@ -1,2 +1,25 @@
 # MMS
+#### DESCRIPTION
+The idea of this project is to find local freelancer workers using an online platform. It was part of my Database course. So the main focus here is the use of __SQL__ database.
+#### TECHNOLOGIES
+- MySQL
+- React
+- Node
+- Express
+- GeoLocation
+#### FEATURES
+- 2 types of users: Worker and Client
+- Register and login
+- User profile set and edit ( Name, Password, Phone no., Education etc.)
+- Search location workers based on geographic location
+- Filter search result
+- Client can send work request
+- Worker can accept or reject requests
+- Rating and Review System
+
+#### DEMONSTRATION
+My final submission video is attached here: https://www.youtube.com/watch?v=oNanY6SdqJQ
+
+
+
 <a href="https://docs.google.com/document/d/1L73B_FTM0_hO6uaxNzzwqd2u9qm6KS1d9j1KXLWFLL8/edit?usp=sharing">google docs</a>
