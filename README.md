@@ -21,7 +21,13 @@ The idea of this project is to find local freelancer workers using an online pla
 ![ERDF](https://github.com/Arnob2018331024/MANUSH_MANAGEMENT_SYSTEM_MERN_STACK/assets/52965934/fab21393-4976-409c-8ce2-b511f2749870)
 
 #### DEMONSTRATION
-My final submission video is attached here: https://www.youtube.com/watch?v=oNanY6SdqJQ
+My final submission video is attached here:
+
+https://github.com/Arnob2018331024/MANUSH_MANAGEMENT_SYSTEM_MERN_STACK/assets/52965934/d2628e87-f5bb-487d-be54-888e29e07ff9
+
+
+
+
 
 
 
